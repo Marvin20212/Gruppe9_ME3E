@@ -1,0 +1,524 @@
+table.objectFBDITable th.defaultMode 
+{
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #487EB5;
+	font-size: x-small;
+	color: white;
+	text-align:center;
+	vertical-align:center;	
+	
+}
+
+table.objectFBDITable th.ErrorMode 
+{
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: red;
+	background-color: #CC1010;
+	font-size: x-small;
+	color: white;	
+	vertical-align:center;			
+}
+table.objectFBDITable th.WarningMode 
+{
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: orange;
+	background-color: darkorange;
+	font-size: x-small;
+	color: white;	
+	vertical-align:center;			
+}
+
+table.objectFBDITable th.pointingMode 
+{
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #B0C9E3;
+	font-size: x-small;
+	color: #326699;
+	text-align:center;
+	vertical-align:center;			
+}
+
+
+table.objectFBDITable th.detailMode 
+{
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: grey;
+	background-color: grey;
+	font-size: x-small;
+	color: white;
+	text-align:center;
+	vertical-align:center;			
+}
+
+table.objectFBDITable tr td.defaultMode 
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #E6E9F5;
+}
+
+table.objectFBDITable tr td.defaultModeGlobal
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #F8F9FD;
+}
+
+table.objectFBDITable td.queuedPackage
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #F0F0F0;
+	color:grey;
+}
+
+table.objectFBDITable td.pointingMode
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #F1F2F6;
+}
+
+table.objectFBDITable td.pointingModeLesserTitle 
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #D6E3F1;
+		font-size: x-small;
+	color: #487EB5;
+}
+
+table.objectFBDITable td.defaultModeLesserTitle 
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #7EABD7;
+		font-size: x-small;
+	color: white;
+}
+
+table.objectFBDITable td.defaultModeRedTitle
+{
+    border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #FF0000;
+	font-size: x-medium;
+	color: white;
+}
+
+table.objectFBDITable td.detailModeTitleLevel2
+{
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: #B0B0B0;
+	background-color: #B0B0B0;
+	font-size: x-small;
+	color: white;
+	text-align:center;
+	vertical-align:center;			
+}
+
+table.objectFBDITable td.unUsedDetailTitleCell
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #B0B0B0;
+	background-color: #B0B0B0;
+
+}
+
+table.objectFBDITable td.unUsedTitleCell
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #518ECB;
+
+}
+
+table.objectFBDITable td.highlightDefaultMode 
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #C0C0F0;
+}
+
+table.objectFBDITable td.highlightFilterMode 
+{		
+	background-color: #C0C0F0;
+}
+
+table.objectFBDITable tr td.defaultModeDetail
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color : darkblue;
+	background-color: #F6F0F5;
+}
+
+table.objectFBDITable tr td.defaultModeHighlight
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #E6E9F5;
+	color: darkblue;
+	font-weight:bold;
+}
+
+table.objectFBDITable tr td.defaultModeOK
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #E6E9F5;
+	color: green;	
+	font-weight:bold;
+}
+
+table.objectFBDITable tr td.defaultModeWarning
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #E6E9F5;
+	color: orange;
+	font-weight:bold;
+}
+
+table.objectFBDITable tr td.defaultModeError
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #E6E9F5;
+	color: red;
+	font-weight:bold;
+}
+
+table.objectFBDITable tr td.defaultModeSkipInterrupted
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkblue;
+	background-color: #E6E9F5;
+	color: grey
+	font-weight:bold;
+}
+
+table.objectFBDITable td.WarningMode
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
+	background-color: #FFCC66;	
+}
+
+table.objectFBDITable td.WarningModeDetail
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
+	background-color: #FFE5B5;	
+}
+
+table.objectFBDITable td.highlightWarningMode 
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
+	background-color: #FFB566;
+}
+
+table.objectFBDITable td.ErrorMode
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: red;
+	background-color: #DD7070;
+	
+}
+
+
+table.objectFBDITable td.ErrorModeDetail
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DD7070;
+	background-color: #FFBCBC;
+	
+}
+
+
+table.objectFBDITable td.highlightErrorMode 
+{	
+	border-width: 1px;
+	border-style: solid;
+	border-color: red;
+	background-color: #D05050;
+}
+
+
+
+table.objectFBDITable tr
+{
+	font-family: Arial;
+	font-size: x-small;
+	color: black; 	
+}
+
+table.objectFBDITable td.detailIndentLv1
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #F0F0F0;
+}
+
+table.objectFBDITable td.detailIndentLv2
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #E0E0E0;
+}
+
+table.objectFBDITable td.detailIndentLv3
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #D0D0D0;
+}
+
+table.objectFBDITable td.detailIndentLv4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #C0C0C0;
+}
+
+table.objectFBDITable td.detailIndentLv5
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #B0B0B0;
+}
+
+table.objectFBDITable td.detailIndentLv6
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: darkgrey;
+	background-color: #A0A0A0;
+}
+
+.displayShow
+{
+	display:block;
+}
+
+.displayHide
+{
+	display:none;
+}
+
+.displayHideLabel
+{
+	display:none;
+}
+
+.detaildisplayShow
+{
+        display:block;
+}
+
+.detaildisplayHide
+{
+   	display:none;
+}
+
+.clickable
+{
+	
+	cursor: hand;
+}
+
+.styleTitle {
+	text-align: center;
+	font-family: Verdana;
+	font-size: x-large;
+	color: #5F5A59;
+}
+
+.styleError{
+	text-align: center;
+	color: red;
+	margin: 5px;
+}
+
+.styleErrorHighLight{
+	text-align: center;
+	background-color: #FFBCBC;
+	color: red;
+}
+
+.styleUnknown{
+	text-align: center;
+	color: red;
+	margin: 5px;
+}
+
+.styleUnknownHighLight{
+	text-align: center;
+	background-color: #FFBCBC;
+	color: red;
+}
+
+.styleWarning {
+	text-align: center;
+	color: orange;
+	margin: 5px;
+}
+
+.styleWarningHighLight{
+	text-align: center;
+	color: orange;
+	background-color: #FFE5B5;
+}
+
+.styleOK {
+	text-align: center;
+	color: green;
+	margin: 5px;	
+}
+
+.styleOKScope {
+	text-align: center;
+	color: #5B8EBE;
+	margin: 5px;	
+}
+
+.styleSkipped {
+	text-align: center;
+	color: grey;
+	margin: 5px;	
+}
+.styleInterrupted{
+	text-align: center;
+	color: grey;
+	margin: 5px;	
+}
+
+
+.styleAction{	
+	color: purple;
+}
+
+.styleActionHighlight{	
+	color: darkblue;
+	font-weight:bold;
+}
+
+.styleNoWrap
+{
+	white-space: nowrap;
+}
+
+.styleTimeInfo {	
+	font-size: small;	
+	color: darkblue;
+	border-width: 2px;	
+	border-style: solid;
+	border-color: #E9ECFA;
+	background-color: #F8F9FD;
+}
+
+.styleSetting {	
+	font-size: small;	
+	color: darkblue;
+	border-width: 2px;	
+	border-style: solid;
+}
+
+.styleStepName {	
+	color: #5B8EBE;	
+	margin: 5px;	
+}
+
+.styleStepNameNotExec{	
+	color: grey;	
+	margin: 5px;	
+}
+
+
+.styleStepTableName {	
+	color: #487EB5;		
+	background-color: #E7F0FA;	
+	margin: 1px;	
+	font-weight:bold;
+	font-size: 14px;
+	
+}
+.styleStepNameHighlight{	
+	color: white;
+	font-weight:bold;
+	background-color: #5B8EBE;
+	margin: 5px;	
+}
+
+table.frame {
+	border-width: medium;
+	border-style: solid;
+	border-color: grey;
+	border-collapse: separate;
+	width:100%;	
+}
+
+table.frame th.titleMode{
+	text-align:left;
+	font-family: Arial;
+	color: #2A2391;
+	font-size: medium;
+	white-space: nowrap;
+	padding: 2px;
+}
+
+table.frame th.highlightTitleMode{
+	text-align:left;
+	font-family: Arial;
+	color: grey;
+	font-size: medium;
+	white-space: nowrap;
+	padding: 2px;
+	background-color: lightgrey;
+}
+
+table.frame td{
+	font-family: Arial;
+	font-size: x-small;
+	padding: 5px;
+}

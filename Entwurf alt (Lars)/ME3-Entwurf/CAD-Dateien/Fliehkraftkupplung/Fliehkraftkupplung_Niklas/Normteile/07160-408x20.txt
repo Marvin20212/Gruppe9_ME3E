@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-20092018-044782";"";
+"REFERENCE";"07160-408X20";"";
+"TraceParts.PartTitle";"07160 Zylinderschrauben mit Innensechskant DIN 912 / ...";"";
+"TraceParts.InstanceId";"90-20092018-044782B53BP6U7P67YB1K2CO4ILZZ2R";"";
+"DESIGN";"ZYLINDERSCHRAUBE MIT INNENSECHSKANT M08X20 STAHL, VERZINKT 8.8, DIN912";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"NORELEM:90-20092018-044782";"";

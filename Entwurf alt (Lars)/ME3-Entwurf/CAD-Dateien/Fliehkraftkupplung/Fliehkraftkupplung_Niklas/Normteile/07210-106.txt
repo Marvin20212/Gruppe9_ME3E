@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-06122017-099353";"";
+"REFERENCE";"07210-106";"";
+"TraceParts.PartTitle";"07210 Sechskantmuttern DIN 934 / DIN EN ISO 4032 / DI...";"";
+"TraceParts.InstanceId";"30-06122017-099353AGEMBTAZFOS26KDHOT7IQLWQ9";"";
+"DESIGN";"SECHSKANTMUTTER M06 EDELSTAHL 70, DIN934, SW=10";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"NORELEM:30-06122017-099353";"";

@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-10052001-156187";"";
+"REFERENCE";"ISO 4762 - d M4 x l 30 - A4-70";"";
+"STANDARD";"ISO 4762";"";
+"TraceParts.PartTitle";"Innensechskant-Hutschraube ISO 4762 - M4 x 30 - A4-70";"";
+"TraceParts.InstanceId";"10-10052001-156187BFBEYY2M58IY20KKW84M6FOKL";"";
+"TraceParts.PartLanguage";"de";"";
+"NOTE";"Klasse: A4-70";"";
+"DESIGN";"Innensechskant-Hutschraube ISO 4762 - M4 x 30 - A4-70";"";
+"TraceParts.PartVersion";"1.5.7";"";
+"MATERIAL";"Rostfreier Stahl";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
