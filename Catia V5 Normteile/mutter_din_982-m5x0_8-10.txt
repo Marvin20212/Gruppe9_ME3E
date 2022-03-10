@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Kategorie: 10; Güteklasse: A";"";
+"REFERENCE";"DIN 982 - d M5 x p 0.8 - 10";"";
+"MATERIAL";"Stahl";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-11062001-169100";"";
+"STANDARD";"DIN 982";"";
+"DESIGN";"Sechskantmutter DIN 982 - M5 x 0.8 - 10";"";
+"TraceParts.InstanceId";"10-11062001-169100550CS0D8G95CXE5055H4FS4XU";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartTitle";"Selbstsichernde 6-Kantmutter mit Kunststoffeinsatz";"";
+"OMNICLASS23";"23.13.23.11.13.23";"";
+"TraceParts.PartVersion";"1.4.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-11062001-169100";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
