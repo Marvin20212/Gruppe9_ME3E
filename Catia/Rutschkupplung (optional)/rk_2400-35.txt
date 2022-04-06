@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"80-19122007-996302";"";
+"REFERENCE";"RK 2400-35";"";
+"TraceParts.PartTitle";"Rutschkupplung Typ RK";"";
+"TraceParts.InstanceId";"80-19122007-996302437OKG6TADTDYFLVJMUYXEB0";"";
+"SUPPLIER";"Technische Antriebselemente GmbH - Germany";"";
+"DESIGN";"Rutschkupplung Typ RK";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"TraceParts.PartLanguage";"de";"";
