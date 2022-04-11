@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-21092016-091377";"";
+"REFERENCE";"6012";"";
+"TraceParts.PartTitle";"Single row deep groove ball bearing, Bore Ø 60 mm, Outside Ø 95 mm";"";
+"TraceParts.InstanceId";"10-21092016-0913775KJIGJLDU0C5YR1VK3T57KBMZ";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Single row deep groove ball bearing, Bore Ø 60 mm, Outside Ø 95 mm";"";
+"TraceParts.PartVersion";"1.3.2";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.41";"";
