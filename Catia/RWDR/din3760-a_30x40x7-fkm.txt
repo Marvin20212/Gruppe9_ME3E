@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 3760 - A d1 30 x d2 40 x b 7 - FKM";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-18062013-073898";"";
+"STANDARD";"DIN 3760";"";
+"DESIGN";"Lip seal DIN 3760 - A30 x 40 x 7 - FKM";"";
+"TraceParts.InstanceId";"10-18062013-073898EDOABE3TQPIVB7NTTP7NMTCKP";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Rotary shaft lip seals";"";
+"OMNICLASS23";"23.13.23.19";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-18062013-073898";"";
