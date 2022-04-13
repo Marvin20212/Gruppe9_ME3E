@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-03052019-093459";"";
+"REFERENCE";"SW-471045";"";
+"TraceParts.PartTitle";"Sicherungsringe und Sprengringe - für Wellen nach DIN 471";"";
+"TraceParts.InstanceId";"33-03052019-093459AASJABXH0PDL1AAN2T2J86810";"";
+"DESIGN";"Sicherungsringe - DIN 471";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"SCHWEIZER";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"SCHWEIZER:33-03052019-093459";"";
