@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 910 - d M12 x p 1.5 - St";"";
+"MATERIAL";"Stahl";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Verschlussschraube DIN 910 - M12 x 1.5 - St";"";
+"TraceParts.PartNumber";"10-09072008-107084";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN 910";"";
+"TraceParts.InstanceId";"10-09072008-10708419GQY34IVKH6NTL93AVFCDUOF";"";
+"TraceParts.PartTitle";"Sechskant-Verschlussschrauben für schwere Lasten";"";
+"TraceParts.PartVersion";"1.2.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-09072008-107084";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
