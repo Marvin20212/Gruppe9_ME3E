@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"el@ss 6.0: 27-20-05-01, 37-01-13-02";"";
+"REFERENCE";"GN 546.6-20-G3/4";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"GANTER";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"34-01082016-075687";"";
+"TraceParts.PartLanguage";"de";"";
+"DESIGN";"GN 546.6 ATEX-Schauglas";"";
+"TraceParts.InstanceId";"34-01082016-075687EK3W8HPVR8FU1QJMIXETXSJHO";"";
+"TraceParts.PartTitle";"GN 546.6 ATEX-Schauglas";"";
+"OMNICLASS23";"23.17.19.00";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"GANTER:34-01082016-075687";"";
