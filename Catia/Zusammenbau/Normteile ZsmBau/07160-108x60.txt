@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-06122017-096969";"";
+"REFERENCE";"07160-108X60";"";
+"TraceParts.PartTitle";"07160 Zylinderschrauben mit Innensechskant DIN 912 / ...";"";
+"TraceParts.InstanceId";"30-06122017-09696919SONRUWXW1PRJ5KSLH0OISGJ";"";
+"DESIGN";"ZYLINDERSCHRAUBE MIT INNENSECHSKANT M08X60 EDELSTAHL, DIN912";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"NORELEM:30-06122017-096969";"";

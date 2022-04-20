@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-02072013-058339";"";
+"REFERENCE";"DIN EN ISO 8734 - d 8 x l 35";"";
+"STANDARD";"DIN EN ISO 8734";"";
+"TraceParts.PartTitle";"Zylinderstifte aus gehärtetem Stahl und martensitischem nichtrostendem Stahl, DIN EN ISO 8734 - 8 x 35";"";
+"TraceParts.InstanceId";"32-02072013-058339EO7HVCF5VZBA8K600HSTJP29J";"";
+"DESIGN";"Zylinderstifte aus gehärtetem Stahl und martensitischem nichtrostendem Stahl, DIN EN ISO 8734 - 8 x 35";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"TraceParts.PartLanguage";"de";"";

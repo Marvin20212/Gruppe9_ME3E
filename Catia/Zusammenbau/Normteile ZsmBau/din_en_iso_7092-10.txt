@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN ISO 7092 - d 10";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Flache Scheiben - Große Reihe, Produktklasse A, DIN EN ISO 7092 - 10";"";
+"TraceParts.PartNumber";"32-01072013-083641";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN EN ISO 7092";"";
+"TraceParts.InstanceId";"32-01072013-0836418W5HDB4OGB7VXZZAPBQ80H2OI";"";
+"TraceParts.PartTitle";"Flache Scheiben - Große Reihe, Produktklasse A";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:32-01072013-083641";"";

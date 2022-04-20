@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN ISO 8734 - d 6 x l 40";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Zylinderstifte aus gehärtetem Stahl und martensitischem nichtrostendem Stahl, DIN EN ISO 8734 - 6 x 40";"";
+"TraceParts.PartNumber";"32-02072013-058339";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN EN ISO 8734";"";
+"TraceParts.InstanceId";"32-02072013-05833940UQ3WRF5EO8D08Q2BSXOEO4D";"";
+"TraceParts.PartTitle";"Zylinderstifte aus gehärtetem Stahl und martensitischem nichtrostendem Stahl";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:32-02072013-058339";"";
