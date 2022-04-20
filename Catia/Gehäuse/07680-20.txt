@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-06122017-109213";"";
+"REFERENCE";"07680-20";"";
+"TraceParts.PartTitle";"07680 Ringschrauben DIN 580 / Edelstahl ähnlich DIN 580";"";
+"TraceParts.InstanceId";"30-06122017-1092131T6LHC3RCNYRW5QZJ54E0EXUQ";"";
+"DESIGN";"RINGSCHRAUBE DIN580 M20 STAHL";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"NORELEM:30-06122017-109213";"";
