@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 472 - d1 100 - s 3";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-03102006-094672";"";
+"STANDARD";"DIN 472";"";
+"DESIGN";"Sicherungsring DIN 472 - 100 x 3";"";
+"TraceParts.InstanceId";"10-03102006-094672ARW3R5K6T288YWTCI69DVJ8JQ";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartTitle";"Sicherungsring für Bohrungen, normale Ausführung";"";
+"OMNICLASS23";"23.13.23.11.13.25";"";
+"TraceParts.PartVersion";"1.3.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-03102006-094672";"";

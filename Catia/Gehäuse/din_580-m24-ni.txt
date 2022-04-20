@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"34-16042012-091607";"";
+"REFERENCE";"DIN 580-M24-NI";"";
+"STANDARD";"DIN 580";"";
+"TraceParts.PartTitle";"DIN 580 Ringschrauben";"";
+"TraceParts.InstanceId";"34-16042012-0916071DBSQ07068S1YQUX5I0NNMV9P";"";
+"SUPPLIER";"GANTER";"";
+"DESIGN";"DIN 580 Ringschrauben";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TraceParts.PartLanguage";"de";"";

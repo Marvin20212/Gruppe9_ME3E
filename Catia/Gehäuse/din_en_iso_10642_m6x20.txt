@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN ISO 10642 - d M6 x l 20";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"32-19062013-058348";"";
+"STANDARD";"DIN EN ISO 10642";"";
+"DESIGN";"Senkschrauben mit Innensechskant, DIN EN ISO 10642 - M6 x 20";"";
+"TraceParts.InstanceId";"32-19062013-0583489PRRLEH8K5RWJAQYC1KNQ25JW";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartTitle";"Senkschrauben mit Innensechskant";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
+"TraceParts.PartVersion";"1.2.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:32-19062013-058348";"";
